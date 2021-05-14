@@ -2,4 +2,4 @@
 
 ## Live demo
 
-http://piptechs.com/
+[Piptechs Website](http://piptechs.com/)
